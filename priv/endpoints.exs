@@ -1974,7 +1974,8 @@ chime_voice_regions = [
             "ap-southeast-1" => %{},
             "ap-southeast-2" => %{},
             "eu-west-1" => %{},
-            "eu-west-2" => %{}
+            "eu-west-2" => %{},
+            "eu-central-1" => %{}
           }
         },
         "waf" => %{
